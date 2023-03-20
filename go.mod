@@ -48,7 +48,7 @@ require (
 	github.com/zclconf/go-cty v1.10.0
 	github.com/zclconf/go-cty-yaml v1.0.2
 	go.etcd.io/bbolt v1.3.6
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/crypto v0.1.0
 	golang.org/x/sys v0.5.0
 	golang.org/x/text v0.7.0
 	google.golang.org/genproto v0.0.0-20221025140454-527a21cfbd71
